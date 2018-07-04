@@ -49,5 +49,7 @@
     },
     "resolutions": {
         "ethers": "0xproject/ethers.js#eip-838-reasons"
-    }
+    },
+      "version": "0.0.0",
+
 }
