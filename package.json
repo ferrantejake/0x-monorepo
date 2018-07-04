@@ -1,6 +1,6 @@
 {
-    "private": true,
-    "name": "0x-monorepo",
+    "name": "@types/web3",
+    "description": "The type definition for IPFS package",
     "engines": {
         "node": ">=6.12"
     },
